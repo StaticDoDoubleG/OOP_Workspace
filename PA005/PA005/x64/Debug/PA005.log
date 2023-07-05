@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\nveloper\Desktop\학교 관련 자료\객체지향프로그래밍\PA005\PA005\main.cpp(390): warning C4172: returning address of local variable or temporary: temp
+C:\Users\nveloper\Desktop\학교 관련 자료\객체지향프로그래밍\PA005\PA005\main.cpp(399): warning C4172: returning address of local variable or temporary: temp
+C:\Users\nveloper\Desktop\학교 관련 자료\객체지향프로그래밍\PA005\PA005\main.cpp(408): warning C4172: returning address of local variable or temporary: temp
+C:\Users\nveloper\Desktop\학교 관련 자료\객체지향프로그래밍\PA005\PA005\main.cpp(417): warning C4172: returning address of local variable or temporary: temp
+  PA005.vcxproj -> C:\Users\nveloper\Desktop\학교 관련 자료\객체지향프로그래밍\PA005\x64\Debug\PA005.exe
